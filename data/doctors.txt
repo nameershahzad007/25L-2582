@@ -1,0 +1,3 @@
+doctor_id,name,specialization,contact,password,fee
+1,Dr. Mahnoor Siddiqui,Cardiology,03214567890,doc456,1700.00
+2,Dr. Bilal Qureshi,Neurology,03314567890,doc789,1400.00

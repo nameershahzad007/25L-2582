@@ -1,0 +1,27 @@
+# ninja log v7
+57	337	7995309910751579	CMakeFiles/MediCore.dir/src/Person.cpp.obj	2826e81eaa69d2a4
+141	600	7995309911590695	CMakeFiles/MediCore.dir/src/Prescription.cpp.obj	85a13760ce0154d8
+82	638	7995309910994374	CMakeFiles/MediCore.dir/src/Admin.cpp.obj	4911f00a1b82f649
+175	641	7995309911931571	CMakeFiles/MediCore.dir/src/InsufficientFundsException.cpp.obj	b24e94245792d82d
+165	468	7995309911831245	CMakeFiles/MediCore.dir/src/FileNotFoundException.cpp.obj	f37cf1cdb883f144
+197	601	7995309912151860	CMakeFiles/MediCore.dir/src/SlotUnavailableException.cpp.obj	c30b9c616fa0f6ad
+183	515	7995309912023976	CMakeFiles/MediCore.dir/src/InvalidInputException.cpp.obj	6af305d3ff07d1fd
+127	504	7995309911452966	CMakeFiles/MediCore.dir/src/Bill.cpp.obj	fd8ab28cbda8f3a5
+154	599	7995309911721084	CMakeFiles/MediCore.dir/src/HospitalException.cpp.obj	d776288d1b29c37a
+49	477	7995309910676121	CMakeFiles/MediCore.dir/src/TextUtil.cpp.obj	14c5a2b4ae306c1b
+468	798	7995309914863996	CMakeFiles/MediCore.dir/src/Validator.cpp.obj	73d1f1c2a2195a3d
+73	1129	7995309910905537	CMakeFiles/MediCore.dir/src/Doctor.cpp.obj	4fd0c1584a47c97f
+106	1245	7995309911251260	CMakeFiles/MediCore.dir/src/Appointment.cpp.obj	7f12797b57db64e1
+65	1156	7995309910836545	CMakeFiles/MediCore.dir/src/Patient.cpp.obj	2906df97bd4f2306
+338	1440	7995309913562744	CMakeFiles/MediCore.dir/src/Storage.cpp.obj	7f38a337c9b1fe62
+9	630	7995365142626434	CMakeFiles/MediCore.dir/src/main.cpp.obj	dee69ea5c70bc25
+477	1662	7995309914954361	CMakeFiles/MediCore.dir/src/FileHandler.cpp.obj	836071ecd44d6b23
+505	1816	7995309915226439	CMakeFiles/MediCore.dir/src/HospitalSystem.cpp.obj	896327d80aa0fd9
+16	865	7995365142698351	CMakeFiles/MediCore.dir/src/Gui.cpp.obj	8a04c419cde23059
+865	1171	7995365151181329	MediCore.exe	8b547775e9c1d048
+29	356	7995785228634742	build.ninja	33de0f55d934e45f
+29	356	7995785228510705	C:/Users/m-uxa/Desktop/25L-2582/build/cmake_install.cmake	33de0f55d934e45f
+164	9964	8000274860712635	CMakeFiles/MediCore.dir/src/main.cpp.obj	dee69ea5c70bc25
+232	10254	8000274861400805	CMakeFiles/MediCore.dir/src/Gui.cpp.obj	8a04c419cde23059
+55	1455	8000275066170395	CMakeFiles/MediCore.dir/src/HospitalSystem.cpp.obj	896327d80aa0fd9
+1456	4130	8000275080180410	MediCore.exe	8b547775e9c1d048

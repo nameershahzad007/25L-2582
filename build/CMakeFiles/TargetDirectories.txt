@@ -1,0 +1,3 @@
+C:/Users/m-uxa/Desktop/25L-2582/build/CMakeFiles/MediCore.dir
+C:/Users/m-uxa/Desktop/25L-2582/build/CMakeFiles/edit_cache.dir
+C:/Users/m-uxa/Desktop/25L-2582/build/CMakeFiles/rebuild_cache.dir

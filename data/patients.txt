@@ -1,0 +1,3 @@
+patient_id,name,age,gender,contact,password,balance
+1,Hamza Nadeem,21,M,03014567890,pass123,7000.00
+2,Iqra Fatima,23,F,03124567890,patient2,5200.00

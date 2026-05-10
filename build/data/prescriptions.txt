@@ -1,0 +1,2 @@
+prescription_id,appointment_id,patient_id,doctor_id,date,medicines,notes
+1,1,1,1,07-05-2026,Aspirin 75mg;Atorvastatin 10mg,Take after dinner and monitor blood pressure
