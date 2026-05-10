@@ -2,6 +2,35 @@
 
 MediCore is a C++ Object Oriented Programming project for a fictional hospital management system. It supports three roles: `Patient`, `Doctor`, and `Admin`. The program uses a simple SFML-based GUI and stores all data in `.txt` files so that records remain available after the program is closed and opened again.
 
+## Tech Stack / Tags
+
+<a href="#" alt="Language">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-blue" /></a>
+<a href="#" alt="Paradigm">
+  <img src="https://img.shields.io/badge/Paradigm-OOP-orange" /></a>
+<a href="#" alt="GUI">
+  <img src="https://img.shields.io/badge/GUI-SFML-green" /></a>
+<a href="#" alt="Build">
+  <img src="https://img.shields.io/badge/Build-CMake-red" /></a>
+<a href="#" alt="Compiler">
+  <img src="https://img.shields.io/badge/Compiler-MinGW-yellow" /></a>
+<a href="#" alt="Storage">
+  <img src="https://img.shields.io/badge/Data-TXT%20Files-lightgrey" /></a>
+<a href="#" alt="Concepts">
+  <img src="https://img.shields.io/badge/Concepts-Templates%20%7C%20Exceptions%20%7C%20Inheritance-purple" /></a>
+
+## Project Screenshot
+
+After adding your screenshot file into the project, place it in the `assets` folder and keep this line in the README:
+
+```md
+![MediCore Screenshot](assets/Screenshot.png)
+```
+
+Example:
+
+![MediCore Screenshot](assets/Screenshot.png)
+
 This project was built to follow a typical OOP semester project style:
 - separate `.h` and `.cpp` files
 - inheritance through a common abstract base class
